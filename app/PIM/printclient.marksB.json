@@ -1,0 +1,9 @@
+{
+  "entity": "PrintClient",
+  "marks": [
+    { "target": "PrintClient", "mark": "tableName", "value": "counter_clients" },
+    { "target": "contactEmail", "mark": "unique", "value": true },
+    { "target": "clientName", "mark": "size", "value": 40 },
+    { "target": "studentNumber", "mark": "size", "value": 10 }
+  ]
+}

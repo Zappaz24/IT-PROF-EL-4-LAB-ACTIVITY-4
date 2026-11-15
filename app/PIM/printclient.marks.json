@@ -1,0 +1,10 @@
+{
+  "entity": "PrintClient",
+  "marks": [
+    { "target": "PrintClient", "mark": "tableName", "value": "campusprint_clients" },
+    { "target": "studentNumber", "mark": "unique", "value": true },
+    { "target": "clientName", "mark": "size", "value": 80 },
+    { "target": "studentNumber", "mark": "size", "value": 15 },
+    { "target": "contactEmail", "mark": "size", "value": 120 }
+  ]
+}
