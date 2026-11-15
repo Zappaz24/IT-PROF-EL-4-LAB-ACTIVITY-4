@@ -1,0 +1,11 @@
+{
+  "entity": "PrintClient",
+  "fields": [
+    { "name": "clientName", "type": "text", "required": true },
+    { "name": "studentNumber", "type": "text", "required": true },
+    { "name": "contactEmail", "type": "text", "required": false },
+    { "name": "courseCode", "type": "text", "required": true },
+    { "name": "yearLevel", "type": "wholenumber", "required": true },
+    { "name": "isEnrolled", "type": "yesno", "required": false }
+  ]
+}
